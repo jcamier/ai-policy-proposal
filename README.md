@@ -87,3 +87,14 @@ unexpected scenarios.
 **Human-in-command**: Emphasizes the importance of human oversight and
 decision-making in critical situations where AI or autonomy may be
 involved.
+
+**Local Ombuds**: An ombuds (short for ombudsman) is an independent, neutral office or person that people can go to when they feel wronged by an organization or system. In the AI policy context, a local ombuds would be a trusted contact point — not inside the company that built the AI — where citizens or workers can raise complaints about how an AI system affected them.
+
+**Redress**: providing a remedy or fix when harm has occurred. In policy terms, it ensures that if an AI system unfairly denies you a loan, misclassifies your medical data, or causes reputational harm, there’s a clear process to:
+
+- Investigate the complaint fairly.
+
+- Require correction, explanation, or rollback.
+
+- Provide compensation or other remedies if harm was significant.
+

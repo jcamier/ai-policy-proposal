@@ -11,10 +11,11 @@
 ## Core Principles
 1. **Human dignity & agency first** — people remain accountable decision-makers for high-impact uses.
 2. **Preservation & planetary care** — prioritize safety of people, animals, and the biosphere.
-3. **Proportional, risk-based oversight** — obligations scale with *actual risk*, rather than simply following rules or checklists.
+3. **Proportional, risk-based oversight** — obligations scale with actual risk, rather than simply following rules or checklists.
 4. **Transparency & accountability** — clear documentation of intended use, data provenance, and known limits.
-5. **Open, fair, and secure innovation** — protect competition, support interoperability, and deter misuse.
-6. **Education & upskilling** — pair adoption with workforce transition plans so communities benefit.
+5. **Respect for privacy & data rights** — individuals must retain control over their personal data, including informed consent, transparency in how data is used, and the ability to opt out where feasible.
+6. **Open, fair, and secure innovation** — protect competition, support interoperability, and deter misuse.
+7. **Education & upskilling** — pair adoption with workforce transition plans so communities benefit.
 
 ---
 
@@ -42,10 +43,12 @@
 ### D. The Safety Case (Tier-2 Systems)
 - Intended use & limits (and exclusions).
 - Data & provenance (including known biases).
+- **Data rights & privacy** (how personal data is collected, stored, used, and whether consent/opt-out mechanisms are in place).
 - Model evaluation (reliability, robustness, harmful capability tests).
 - Human-in-command plan (escalation/override).
 - Security posture (model/data access, jailbreak resistance).
 - Post-market plan (telemetry, incident response <72h, rollback).
+
 
 ### E. Innovation Guards
 - **Safe harbor for Tiers 0–1:** no pre-approvals; simple notice & checklists.
@@ -77,24 +80,20 @@
 ## Conclusion
 This framework is designed to be *“just enough”* — avoiding the twin dangers of over-regulation (which stifles innovation) and under-regulation (which leads to chaos). By adopting a risk-tiered, principle-driven approach, governments, industries, and communities can ensure that AI becomes a co-creator in building a sustainable and flourishing future for humanity and the biosphere.
 
-### Definitions and Concepts:
+### Definitions and Concepts
 
-**Red-team evidence**: A "red team" is a group that intentionally
-challenges and tests the system's robustness. This component likely
-involves ensuring that the system can withstand adversarial attacks or
-unexpected scenarios.
+**Red-team evidence**: A "red team" is a group that intentionally challenges and tests the system's robustness. This component likely involves ensuring that the system can withstand adversarial attacks or unexpected scenarios.
 
-**Human-in-command**: Emphasizes the importance of human oversight and
-decision-making in critical situations where AI or autonomy may be
-involved.
+**Human-in-command**: Emphasizes the importance of human oversight and decision-making in critical situations where AI or autonomy may be involved.
 
 **Local Ombuds**: An ombuds (short for ombudsman) is an independent, neutral office or person that people can go to when they feel wronged by an organization or system. In the AI policy context, a local ombuds would be a trusted contact point — not inside the company that built the AI — where citizens or workers can raise complaints about how an AI system affected them.
 
-**Redress**: providing a remedy or fix when harm has occurred. In policy terms, it ensures that if an AI system unfairly denies you a loan, misclassifies your medical data, or causes reputational harm, there’s a clear process to:
-
+**Redress**: Providing a remedy or fix when harm has occurred. In policy terms, it ensures that if an AI system unfairly denies you a loan, misclassifies your medical data, or causes reputational harm, there’s a clear process to:
 - Investigate the complaint fairly.
-
 - Require correction, explanation, or rollback.
-
 - Provide compensation or other remedies if harm was significant.
+
+**Data rights & privacy**: The principle that individuals should retain control over their personal data, including the right to informed consent, transparency in use, and, where feasible, the ability to opt out.
+
+**Biosphere**: The global sum of all ecosystems — including humans, animals, plants, microorganisms, and the environments that support them (land, oceans, and atmosphere where life exists). It represents the interconnected system of life on Earth. The biosphere is often compared to a **spaceship**: a closed, fragile system that sustains us as we journey through space. Preserving the biosphere is essential not only for life today, but also as the launching point for humanity’s long-term future, including the possibility of interstellar travel.
 

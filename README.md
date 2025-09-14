@@ -97,3 +97,22 @@ This framework is designed to be *“just enough”* — avoiding the twin dange
 
 **Biosphere**: The global sum of all ecosystems — including humans, animals, plants, microorganisms, and the environments that support them (land, oceans, and atmosphere where life exists). It represents the interconnected system of life on Earth. The biosphere is often compared to a **spaceship**: a closed, fragile system that sustains us as we journey through space. Preserving the biosphere is essential not only for life today, but also as the launching point for humanity’s long-term future, including the possibility of interstellar travel.
 
+## Contributing
+
+This policy is a living document, and it only gets better through collaboration. You do not need to be an AI expert or policy maker to participate — every perspective adds value.
+
+### Ways to Contribute
+- **Open an Issue**: Share your thoughts, questions, or concerns in plain language. No technical background required.
+- **Submit a Pull Request**: Suggest edits or new sections. If you’re new to GitHub, don’t worry — we can help guide you.
+- **Join Discussions**: Use the Discussions tab to brainstorm, debate, and refine ideas together.
+- **Spread the Word**: Share this project with others who care about building a better future with AI.
+
+### A Note on Contributions
+There are no “wrong” contributions. Drafts, rough ideas, questions, or even one-sentence suggestions are all welcome. The goal is to capture diverse voices and refine them into a balanced and pragmatic AI policy.
+
+### Beginner-Friendly Issues
+We’ve added labels like `good first issue`, `discussion`, and `needs input` to help you find easy ways to start contributing.
+
+Your voice matters. Even a small suggestion can make a big difference. Let’s work together to build a sustainable and flourishing future for humanity and the biosphere.
+
+

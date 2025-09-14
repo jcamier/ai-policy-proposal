@@ -110,9 +110,6 @@ This policy is a living document, and it only gets better through collaboration.
 ### A Note on Contributions
 There are no “wrong” contributions. Drafts, rough ideas, questions, or even one-sentence suggestions are all welcome. The goal is to capture diverse voices and refine them into a balanced and pragmatic AI policy.
 
-### Beginner-Friendly Issues
-We’ve added labels like `good first issue`, `discussion`, and `needs input` to help you find easy ways to start contributing.
-
 Your voice matters. Even a small suggestion can make a big difference. Let’s work together to build a sustainable and flourishing future for humanity and the biosphere.
 
 

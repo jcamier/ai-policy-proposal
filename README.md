@@ -1,8 +1,8 @@
 # AI Policy Framework for a Flourishing Future
-<!-- **version - August 31st, 2025** -->
+<!-- **version - September 14th, 2025** -->
 
 ## Preamble
-**Purpose.** This policy aims to ensure AI is developed and deployed to *preserve and enhance human life, protect creation, and promote broad-based flourishing*, while safeguarding rights and enabling responsible innovation.
+**Purpose.** This policy aims to ensure AI is developed and deployed to *preserve and enhance human life, protect the biosphere, and promote broad-based flourishing*, while safeguarding rights and enabling responsible innovation.
 
 **North Star.** AI should be a *helper* that augments human capability, not a replacement for human dignity or agency.
 
@@ -10,7 +10,7 @@
 
 ## Core Principles
 1. **Human dignity & agency first** — people remain accountable decision-makers for high-impact uses.
-2. **Preservation & planetary care** — prioritize safety of people, animals, and the environment.
+2. **Preservation & planetary care** — prioritize safety of people, animals, and the biosphere.
 3. **Proportional, risk-based oversight** — obligations scale with *actual risk*, rather than simply following rules or checklists.
 4. **Transparency & accountability** — clear documentation of intended use, data provenance, and known limits.
 5. **Open, fair, and secure innovation** — protect competition, support interoperability, and deter misuse.
@@ -75,7 +75,7 @@
 ---
 
 ## Conclusion
-This framework is designed to be *“just enough”* — avoiding the twin dangers of over-regulation (which stifles innovation) and under-regulation (which leads to chaos). By adopting a risk-tiered, principle-driven approach, governments, industries, and communities can ensure that AI becomes a co-creator in building a sustainable and flourishing future for humanity and creation.
+This framework is designed to be *“just enough”* — avoiding the twin dangers of over-regulation (which stifles innovation) and under-regulation (which leads to chaos). By adopting a risk-tiered, principle-driven approach, governments, industries, and communities can ensure that AI becomes a co-creator in building a sustainable and flourishing future for humanity and the biosphere.
 
 ### Definitions and Concepts:
 

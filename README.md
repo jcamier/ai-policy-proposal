@@ -1,8 +1,14 @@
 # AI Policy Framework for a Flourishing Future
 <!-- **version - September 14th, 2025** -->
 
+⚠️ **Note:** This repository is no longer actively maintained. For the latest developments and to contribute to this work, please visit the actively maintained repository at: **https://github.com/SustainAI-Global/ai-policy-proposal**
+
+This repository is kept for reference purposes.
+
+---
+
 ## Preamble
-**Purpose.** This policy aims to ensure AI is developed and deployed to *preserve and enhance human life, protect the biosphere, and promote broad-based flourishing*, while safeguarding rights and enabling responsible innovation.
+**Purpose.** This policy aims to ensure AI is developed and deployed to *preserve and enhance human life, protect the biosphere, and promote broad-based flourishing*, while safeguarding rights and [...]
 
 **North Star.** AI should be a *helper* that augments human capability, not a replacement for human dignity or agency.
 
@@ -13,7 +19,7 @@
 2. **Preservation & planetary care** — prioritize safety of people, animals, and the biosphere.
 3. **Proportional, risk-based oversight** — obligations scale with actual risk, rather than simply following rules or checklists.
 4. **Transparency & accountability** — clear documentation of intended use, data provenance, and known limits.
-5. **Respect for privacy & data rights** — individuals must retain control over their personal data, including informed consent, transparency in how data is used, and the ability to opt out where feasible.
+5. **Respect for privacy & data rights** — individuals must retain control over their personal data, including informed consent, transparency in how data is used, and the ability to opt out wher[...]
 6. **Open, fair, and secure innovation** — protect competition, support interoperability, and deter misuse.
 7. **Education & upskilling** — pair adoption with workforce transition plans so communities benefit.
 
@@ -24,7 +30,7 @@
 ### A. Risk-Tiering (Use-Case Based)
 - **Tier 0 — Minimal risk** (assistive tools, internal prototypes). *No filings.*
 - **Tier 1 — Limited risk** (customer-facing copilots, content tools). *Light duties:* disclaimers, basic logging, opt-out.
-- **Tier 2 — High-impact** (hiring/credit/health/critical infra, autonomy in the loop). *Full duties:* pre-deployment safety case, red-team evidence, impact assessment, human-in-command, post-market monitoring.
+- **Tier 2 — High-impact** (hiring/credit/health/critical infra, autonomy in the loop). *Full duties:* pre-deployment safety case, red-team evidence, impact assessment, human-in-command, post-ma[...]
 - **Tier 3 — Prohibited uses** (untargeted manipulation, illegal surveillance, autonomous lethal use, large-scale rights violations). *Banned.*
 
 ### B. Tier Triggers
@@ -54,7 +60,7 @@
 - **Safe harbor for Tiers 0–1:** no pre-approvals; simple notice & checklists.
 - **Open-source & research shield:** exempt unless crossing Tier-2 triggers.
 - **Interoperability standards:** capability cards, audit APIs, portable logs.
-- **Fast-track updates:** if change doesn’t alter risk tier, no new filing.
+- **Fast-track updates:** if change doesn't alter risk tier, no new filing.
 - **Sunset clauses:** every new rule auto-reviews in 24 months unless re-justified.
 
 ### F. Proportional Enforcement
@@ -78,24 +84,24 @@
 ---
 
 ## Conclusion
-This framework is designed to be *“just enough”* — avoiding the twin dangers of over-regulation (which stifles innovation) and under-regulation (which leads to chaos). By adopting a risk-tiered, principle-driven approach, governments, industries, and communities can ensure that AI becomes a co-creator in building a sustainable and flourishing future for humanity and the biosphere.
+This framework is designed to be *"just enough"* — avoiding the twin dangers of over-regulation (which stifles innovation) and under-regulation (which leads to chaos). By adopting a risk-tie[...]
 
 ### Definitions and Concepts
 
-**Red-team evidence**: A "red team" is a group that intentionally challenges and tests the system's robustness. This component likely involves ensuring that the system can withstand adversarial attacks or unexpected scenarios.
+**Red-team evidence**: A "red team" is a group that intentionally challenges and tests the system's robustness. This component likely involves ensuring that the system can withstand adversarial at[...]
 
 **Human-in-command**: Emphasizes the importance of human oversight and decision-making in critical situations where AI or autonomy may be involved.
 
-**Local Ombuds**: An ombuds (short for ombudsman) is an independent, neutral office or person that people can go to when they feel wronged by an organization or system. In the AI policy context, a local ombuds would be a trusted contact point — not inside the company that built the AI — where citizens or workers can raise complaints about how an AI system affected them.
+**Local Ombuds**: An ombuds (short for ombudsman) is an independent, neutral office or person that people can go to when they feel wronged by an organization or system. In the AI policy context, a[...]
 
-**Redress**: Providing a remedy or fix when harm has occurred. In policy terms, it ensures that if an AI system unfairly denies you a loan, misclassifies your medical data, or causes reputational harm, there’s a clear process to:
+**Redress**: Providing a remedy or fix when harm has occurred. In policy terms, it ensures that if an AI system unfairly denies you a loan, misclassifies your medical data, or causes reputational [...]
 - Investigate the complaint fairly.
 - Require correction, explanation, or rollback.
 - Provide compensation or other remedies if harm was significant.
 
-**Data rights & privacy**: The principle that individuals should retain control over their personal data, including the right to informed consent, transparency in use, and, where feasible, the ability to opt out.
+**Data rights & privacy**: The principle that individuals should retain control over their personal data, including the right to informed consent, transparency in use, and, where feasible, the abi[...]
 
-**Biosphere**: The global sum of all ecosystems — including humans, animals, plants, microorganisms, and the environments that support them (land, oceans, and atmosphere where life exists). It represents the interconnected system of life on Earth. The biosphere is often compared to a **spaceship**: a closed, fragile system that sustains us as we journey through space. Preserving the biosphere is essential not only for life today, but also as the launching point for humanity’s long-term future, including the possibility of interstellar travel.
+**Biosphere**: The global sum of all ecosystems — including humans, animals, plants, microorganisms, and the environments that support them (land, oceans, and atmosphere where life exists). It r[...]
 
 ## Contributing
 
@@ -103,13 +109,12 @@ This policy is a living document, and it only gets better through collaboration.
 
 ### Ways to Contribute
 - **Open an Issue**: Share your thoughts, questions, or concerns in plain language. No technical background required.
-- **Submit a Pull Request**: Suggest edits or new sections. If you’re new to GitHub, don’t worry — we can help guide you.
+- **Submit a Pull Request**: Suggest edits or new sections. If you're new to GitHub, don't worry — we can help guide you.
 - **Join Discussions**: Use the Discussions tab to brainstorm, debate, and refine ideas together.
 - **Spread the Word**: Share this project with others who care about building a better future with AI.
 
 ### A Note on Contributions
-There are no “wrong” contributions. Drafts, rough ideas, questions, or even one-sentence suggestions are all welcome. The goal is to capture diverse voices and refine them into a balanced and pragmatic AI policy.
+There are no "wrong" contributions. Drafts, rough ideas, questions, or even one-sentence suggestions are all welcome. The goal is to capture diverse voices and refine them into a balanced and[...]
 
-Your voice matters. Even a small suggestion can make a big difference. Let’s work together to build a sustainable and flourishing future for humanity and the biosphere.
-
+Your voice matters. Even a small suggestion can make a big difference. Let's work together to build a sustainable and flourishing future for humanity and the biosphere.
 
